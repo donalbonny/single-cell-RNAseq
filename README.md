@@ -4,6 +4,8 @@
 2. [Paper: Single-Cell Transcriptomics Bioinformatics and Computational Challenges](https://www.frontiersin.org/articles/10.3389/fgene.2016.00163/full)
 3. [Paper: A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
 4. [paper: Potential of single cell profiling in plant](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0931-2)
+5. [Paper Mapping gene regulatory networks from single-cell omics data](https://bit.ly/2DdPBvk)
+
 
 
 ### Single-cell RNA-seq 
